@@ -1,0 +1,13 @@
+C:\Users\mohabual\Desktop\Compactor\Source\Coen338Compactor\obj\Debug\Coen338Compactor.exe
+C:\Users\mohabual\Desktop\Compactor\Source\Coen338Compactor\obj\Debug\Coen338Compactor.pdb
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\bin\Debug\LZWCompactor.exe
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\bin\Debug\LZWCompactor.pdb
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\obj\Debug\LZWCompactor.AboutDlg.resources
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\obj\Debug\LZWCompactor.frmMain.resources
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\obj\Debug\LZWCompactor.NewDlg.resources
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\obj\Debug\LZWCompactor.Properties.Resources.resources
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\obj\Debug\LZWCompactor.Splash.resources
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\obj\Debug\LZWCompactor.csproj.GenerateResource.Cache
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\obj\Debug\LZWCompactor.exe
+C:\Users\mohabual\Desktop\Compactor\Source\LZWCompactor\obj\Debug\LZWCompactor.pdb
